@@ -53,7 +53,7 @@ public class Account {
         Scanner scanner = new Scanner(System.in);
             System.out.println();
             System.out.println("Welcome, " + customerName + "!");
-            System.out.println("Your ID is: " + customerID);
+            System.out.println("Your Account Number is: " + customerID);
             System.out.println();
             System.out.println("What would you like to do?");
             System.out.println();
