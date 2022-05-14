@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab34b3e-f144-42c2-b2dd-347b1a21335d" name="Changes" comment="&quot;Submitting a simple command line user interface banking program&quot;">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GorgeBank.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GorgeBank.java" afterDir="false" />
-    </list>
+    <list default="true" id="dab34b3e-f144-42c2-b2dd-347b1a21335d" name="Changes" comment="&quot;Submitting a simple command line user interface banking program&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +68,14 @@
       <option name="presentableId" value="Default" />
       <updated>1652559158331</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;Submitting a simple command line user interface banking program&quot;">
+      <created>1652568166687</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652568166688</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
