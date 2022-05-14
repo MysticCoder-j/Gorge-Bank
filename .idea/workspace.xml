@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dab34b3e-f144-42c2-b2dd-347b1a21335d" name="Changes" comment="&quot;Submitting a simple command line user interface banking program&quot;">
+    <list default="true" id="dab34b3e-f144-42c2-b2dd-347b1a21335d" name="Changes" comment="&quot;banking project update 1.1&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/GorgeBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GorgeBank.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -98,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652568306713</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;banking project update 1.1&quot;">
+      <created>1652569046174</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652569046174</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +122,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Submitting a simple command line user interface banking program&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Submitting a simple command line user interface banking program&quot;" />
+    <MESSAGE value="&quot;banking project update 1.1&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;banking project update 1.1&quot;" />
   </component>
 </project>
